@@ -1,0 +1,19 @@
+npm package >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-icons --save
+
+https://dribbble.com/shots/7528181-Dekha-Creative-Personal-Resume-portfolio-HTML5-Template
+
+
+
+
+bg-[#203f9a]
+bg-[#4489bb]
+
+for Break Points >>>>>>>>>>>>>>>>>>>>>>>>>>
+har break points ko batana hoga k kya karna hy styling mai
+warna wo default utha leaga 
+baray mai last hoga tw us k baray mai wohi hoga
+choty mai last hoga tw us k chotay mai wohi hoga
+ar agr aisi hi rakha hy tw sb mai wohi hoga 

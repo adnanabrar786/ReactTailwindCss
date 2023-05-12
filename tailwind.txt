@@ -1,0 +1,30 @@
+width >>>>>>>>>>>>>>>>>>>
+w-1/2	width: 50%;
+w-3/4	width: 75%;
+
+padding >>>>>>>>>>>>>>>
+pe-1 to pe-12
+pe-14
+pe-16
+pe-20 and *4
+
+margin >>>>>>>>>>>>>>>
+m-1 to m-12
+m-14
+m-16
+m-20 and *4
+
+flex >>>>>>>>>>>>>>>
+flex
+justify-center
+items-center
+flex-col
+
+grid >>>>>>>>>>>>>>>
+grid 
+grid-cols-1 to   grid-cols-12 
+grid-rows-3
+gap-4 >>>>>>>>>>>>>>>>>> gap-1 to gap-96
+
+gradient >>>>>>>>>>>>>>>>>>
+bg-gradient-to-r from-[#4489bb]  to-[#203f9a] 
