@@ -89,19 +89,19 @@ const Banner = () => {
                       md:w-3/4 
                       sm:w-full
                       '>
-                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2'>
-                            <ImFacebook />
+                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2 hover:bg-[#000000]'>
+                            <ImFacebook/>
                         </span>
-                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2'>
+                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2 hover:bg-[#000000]'>
                             <SiTwitter />
                         </span>
-                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2'>
+                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2 hover:bg-[#000000]'>
                             <FaLinkedinIn />
                         </span>
-                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2'>
+                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2 hover:bg-[#000000]'>
                             <FiInstagram />
                         </span>
-                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2'>
+                        <span className='text-md border text-white rounded-full p-2 cursor-pointer mx-2 hover:bg-[#000000]'>
                             <SiWhatsapp />
                         </span>
                     </div>
@@ -116,7 +116,7 @@ const Banner = () => {
                     <img src={banner_pic} alt="img" />
                 </div>
             </div>
-            
+
         </>
     )
 }
