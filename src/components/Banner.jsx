@@ -116,6 +116,7 @@ const Banner = () => {
                     <img src={banner_pic} alt="img" />
                 </div>
             </div>
+            
         </>
     )
 }
